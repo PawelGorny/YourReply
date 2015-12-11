@@ -1,0 +1,14 @@
+ERROR_ADD_ITEMS#0="Il est impossible d'ajouter les éléments du menu!";
+FORWARD_HEADER_DATE#0="Date";
+FORWARD_HEADER_FROM#0="De";
+FORWARD_HEADER_ORIGINAL_MESSAGE#0="Message d'origine";
+FORWARD_HEADER_SUBJECT#0="Objet";
+FORWARD_HEADER_TO#0="A";
+FORWARD_MENU#0="Modifier et transmettre";
+FORWARD_PREFIX#0="Fwd:";
+NOT_EMAIL#0="Objet n'est pas reconu comme e-mail";
+POPUP_DOWNLOADING#0="Télécharger...";
+Q_DOWNLOAD#0="- télécharger?";
+REPLY_HEADER_WROTE#0="a écrit";
+REPLY_MENU#0="Modifier et repondre";
+REPLY_PREFIX#0="Re:";
